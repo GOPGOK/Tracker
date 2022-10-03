@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileLocationApp</string>
+<!--    Ссылка на API на сервере-->
+    <string name="api_url">https://mobilelocation9283.pythonanywhere.com/api/locations/</string>
+</resources>
